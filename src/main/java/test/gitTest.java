@@ -7,6 +7,6 @@ public class gitTest {
     }
 
     public void  Test(){
-
+        System.out.println("我知道 我知道！");
     }
 }
